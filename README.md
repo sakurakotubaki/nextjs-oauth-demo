@@ -1,6 +1,6 @@
 # Next.js Auth0 Authentication App
 
-このプロジェクトは、Next.js 13+ App RouterとAuth0を使用した認証システムの実装例です。
+このプロジェクトは、Next.js 15.0.3+ App RouterとAuth0を使用した認証システムの実装例です。
 
 ## 機能
 
