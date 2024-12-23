@@ -12,7 +12,7 @@
 
 ## 技術スタック
 
-- Next.js 13+ (App Router)
+- Next.js 15.0.3+ (App Router)
 - Auth0
 - TypeScript
 - Tailwind CSS
