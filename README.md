@@ -23,8 +23,8 @@
 
 ```bash
 # プロジェクトのクローン
-git clone [your-repo-url]
-cd auth-app
+git clone https://github.com/sakurakotubaki/nextjs-oauth-demo
+cd nextjs-oauth-demo
 
 # 依存関係のインストール
 npm install
@@ -120,10 +120,6 @@ npm run dev
 - `use client`ディレクティブを使用するコンポーネントは、クライアントサイドでのみ実行される機能に限定
 - 環境変数は必ず`.env.local`で管理し、公開リポジトリにコミットしない
 - 本番環境では適切なセキュリティヘッダーの設定を確認
-
-## ライセンス
-
-MIT
 
 ## 参考リンク
 
